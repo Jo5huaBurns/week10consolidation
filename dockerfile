@@ -1,4 +1,4 @@
-FROM node:18-alpine3.23
+FROM node:10-alpine
 COPY script.js .
 WORKDIR .
 RUN npm install
