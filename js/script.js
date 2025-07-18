@@ -1,3 +1,4 @@
+//This is the JavaScript for a simple Tic Tac Toe game
 // Get all cell elements, status display, and reset button
 const cells = document.querySelectorAll('.cell');
 const status = document.getElementById('status');
